@@ -1,0 +1,16 @@
+{
+  "name": "mcp-listing",
+  "version": "1.0.0",
+  "main": "scrape-cursor-directory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.55.0",
+    "puppeteer": "^24.17.0"
+  }
+}
